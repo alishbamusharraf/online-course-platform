@@ -1,0 +1,34 @@
+[
+  {
+    "user": "user@example.com",
+    "amount": 15
+  },
+  {
+    "user": "user@example.com",
+    "amount": 20
+  },
+  {
+    "user": "user@example.com",
+    "amount": 20
+  },
+  {
+    "user": "user@example.com",
+    "amount": 20
+  },
+  {
+    "user": "user@example.com",
+    "amount": 15
+  },
+  {
+    "user": "user@example.com",
+    "amount": 15
+  },
+  {
+    "user": "user@example.com",
+    "amount": 20
+  },
+  {
+    "user": "user@example.com",
+    "amount": 15
+  }
+]

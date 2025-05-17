@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development Bootcamp",
+    "instructor": "John Doe",
+    "description": "Complete course on web development from scratch.",
+    "price": 4.99
+  },
+  {
+    "id": 2,
+    "title": "Python for Beginners",
+    "instructor": "Ahmed Ali",
+    "description": "Introduction to Python programming language.",
+    "price": 10.99
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Mastery",
+    "instructor": "Jane Smith",
+    "description": "Advanced JavaScript techniques and best practices.",
+    "price": 19.99
+
+  },
+  
+  {
+    "id": 4,
+    "title": "Data Science Bootcamp",
+    "instructor": "John Doe",
+    "description": "Complete course on data science from scratch.",
+    "price": 4.99
+  }
+
+]
